@@ -1,3 +1,3 @@
-formation1 test master
+formation1
 formation2
-formation3 edited local
+formation3 edited local in browser
