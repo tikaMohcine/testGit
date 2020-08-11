@@ -1,2 +1,2 @@
-formation1  test master
+formation1 test master
 formation2
